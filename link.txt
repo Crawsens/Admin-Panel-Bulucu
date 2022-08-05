@@ -291,3 +291,5 @@ superuser%EXT%
 supervise/
 supervise/Login%EXT%
 super%EXT%
+:2083/
+cpanel/
